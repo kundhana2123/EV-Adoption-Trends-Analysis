@@ -27,7 +27,7 @@ We employed a variety of data visualization methods and tools including:
 
 ## Key Insights
 * Urban Concentration: EV adoption is highest in urban counties (e.g., King, Snohomish), highlighting a need for rural infrastructure investment.
-* Policy Effectiveness: Adoption spikes correlate with major policy announcements and CAFV incentives.
+* Policy Effectiveness: Adoption spikes correlate with CAFV incentives.
 * Range vs. Price: Battery Electric Vehicles (BEVs) offer greater range but are more expensive than Plug-in Hybrid Electric Vehicles (PHEVs).
 * Brand Dominance: Tesla remains a top brand, with Model 3 leading in registrations.
 * Visualization Innovation: Interactive and multi-layered charts enable deep-dive analysis beyond traditional dashboards.
